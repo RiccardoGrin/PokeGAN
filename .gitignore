@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
 models/*
+Pokemon/*
 results/*
 .jpg
 .jpeg
