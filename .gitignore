@@ -2,6 +2,8 @@
 __pycache__/
 models/*
 Pokemon/*
+FlipPkemon/*
+data/*
 results/*
 .jpg
 .jpeg
