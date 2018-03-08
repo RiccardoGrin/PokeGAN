@@ -19,6 +19,6 @@ In this first attempt, I tried to use 128x128 RGB images of Pokemon, and without
 
 ### Final Results (most pokemon like)
 There were a lot of different attempts made at training with RGB images, with different input sizes, learning rates, network dimensions, however most results were quite terrible, thus I turned the images to grayscale, to flatten their shape. Using the grayscale images, another whole lot of tests were made, where the following are the best results, where some of the images actually look like Pokemon, or at least have features (body curvatures, wings, arms, tails) which resamble a Pokemon.
-<p pad="10" align="center"> <img src="https://github.com/RiccardoGrin/PokeGAN/blob/master/resources/GAN_gray_64_128in_anim.gif" width="200" height="200" hspace="20"/> 
-<img src="https://github.com/RiccardoGrin/PokeGAN/blob/master/resources/GAN_b5_lg002_ld001.gif" width="200" height="200" hspace="20"/>
+<p pad="10" align="center"> <img src="https://github.com/RiccardoGrin/PokeGAN/blob/master/resources/GAN_gray_2.gif" width="200" height="200" hspace="20"/> 
+<img src="https://github.com/RiccardoGrin/PokeGAN/blob/master/resources/GAN_gray.gif" width="200" height="200" hspace="20"/>
 </p>
